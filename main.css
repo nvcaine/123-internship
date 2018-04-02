@@ -1,0 +1,17 @@
+.product-image {
+    font-size: 30px;
+    text-align: center;
+}
+
+.product-name {
+    text-align: center;
+}
+
+.product {
+    padding: 0 5px;
+}
+
+.product-inner {
+    background-color: aquamarine;
+    padding: 5px;
+}
